@@ -1,6 +1,3 @@
 ## Custom Augmentation Routines
 
-Custom Augmentation Routines
-
-## TO DO
- - [ ] Clean up code
+This repository contains few common and not so common augmentation routines and a script to automate the entire Augmentation process.
